@@ -1,1 +1,2 @@
 Git is a DVCS
+it is prefered by mostly industries
