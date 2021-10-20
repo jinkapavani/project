@@ -1,1 +1,2 @@
 Push the file from local to remote
+Now pull the code to remote to local
